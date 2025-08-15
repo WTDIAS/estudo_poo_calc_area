@@ -4,6 +4,7 @@
 # .Herança
 # .Polimorfismo
 # .**kwargs
+# .Encapsulamento
 #=================================================
 
 from abc import ABC, abstractmethod

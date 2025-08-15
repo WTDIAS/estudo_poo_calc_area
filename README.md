@@ -7,6 +7,7 @@ Foram implementadas classes que representam **Círculo**, **Triângulo** e **Ret
 - **Abstração**
 - **Herança**
 - **Polimorfismo**
+- **Encapsulamento**
 - **Uso de `**kwargs` para flexibilidade na inicialização**
 - **Boas práticas de validação de dados**
 - **Testes unitários com `unittest`**
